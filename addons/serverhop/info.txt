@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Server Hop"
+	"version"			"1.0"
+	"up_date"			"09/21/15"
+	"author_name"			"Roy (Christian Deacon) & Gravious"
+	"author_email"			"christiand@thedevelopingcommunity.com"
+	"author_url"			"http://thedevelopingcommunity.com/"
+	"info"				"Server Hop"
+	"override"			"0"
+}
